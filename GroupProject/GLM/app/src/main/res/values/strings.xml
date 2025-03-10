@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GLM</string>
+
+    <string-array name="categories">
+        <item>Dairy</item>
+        <item>Meats and Poultry</item>
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Bakery and Breads</item>
+        <item>Spreads and jams</item>
+        <item>Baking goods</item>
+        <item>Paper products</item>
+        <item>Cleaning supplies</item>
+        <item>Spices</item>
+        <item>Fruit juices</item>
+        <item>Soft drinks</item>
+        <item>Alcoholic drinks</item>
+        <item>Grains</item>
+        <item>Other</item>
+    </string-array>
+</resources>
